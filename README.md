@@ -1,4 +1,4 @@
-# SafiriCare — Python interactive web prototype
+# South-Plus — Python interactive web prototype
 
 A Streamlit-based recreation of the seven-stage care journey dashboard. **Synthetic demonstrations only.** No real patient data.
 
