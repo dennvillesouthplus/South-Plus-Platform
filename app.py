@@ -1,4 +1,4 @@
-"""SafiriCare interactive synthetic-care demonstration. Run: streamlit run app.py"""
+"""South-Plus interactive synthetic-care demonstration. Run: streamlit run app.py"""
 import streamlit as st
 import pandas as pd
 from datetime import datetime, timedelta
